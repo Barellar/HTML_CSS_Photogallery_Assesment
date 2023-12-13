@@ -1,0 +1,1 @@
+This repository contains the HTML and CSS files for a photo gallery. This program displays 10 images contained in the Snapshot folder in 2 rows of 5, with the appropriate format as required by the course instructor.
